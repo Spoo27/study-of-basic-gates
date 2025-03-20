@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### Spoorthi V
+### 212224230271
+### Exp No 1 : Study of basic gates
 
 **AIM:** 
 
@@ -64,16 +66,20 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![program of exp 1](https://github.com/user-attachments/assets/8b1a36b6-b018-48be-a64c-b98dba5591a4)
 
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+
+![truthtable of exp 1](https://github.com/user-attachments/assets/4e933c41-75ec-43d1-be46-b9c0c0db981c)
 
 **RTL realization Output:** 
 
+![truth table of exp1](https://github.com/user-attachments/assets/7316690c-2a40-4127-8bfe-b3e3d8035a54)
+
 **RTL**
+![RTL Waveform exp 1](https://github.com/user-attachments/assets/a862a620-adf2-4482-b06f-add3f3467f8e)
 
 **Result:**
+Therefore, the given experiment is successful.
 
 
