@@ -1,6 +1,6 @@
 ### Spoorthi V
 ### 212224230271
-### EXP NO : Study of basic gates
+### EXP NO 1: Study of basic gates
 
 **AIM:** 
 
@@ -66,18 +66,18 @@ Y= A⊕B
 
 **PROGRAM**
 
-![program of exp 1](https://github.com/user-attachments/assets/c0fd77d2-fb06-45bb-9ed0-fcada611badf)
+![program of exp 1](https://github.com/user-attachments/assets/3b5d072b-3045-49c7-a2df-1d7eb41b6d55)
 
- 
 **Logic symbol & Truthtable**
 
-![truthtable of exp 1](https://github.com/user-attachments/assets/fed03bdf-d4b2-4391-8b50-57fab7df8e83)
+![truthtable of exp 1](https://github.com/user-attachments/assets/d08614f9-1980-488d-b5f3-11f7f724ef9e)
+
 
 **RTL realization Output:** 
 
 ![truth table of exp1](https://github.com/user-attachments/assets/b36b05ff-32f1-45c5-8666-17fa731bb94c)
 
-**RTL**
+**RTL Waveform**
 
 ![RTL Waveform exp 1](https://github.com/user-attachments/assets/07d0cec7-51b1-473c-ad8e-0b8dd61f3ce6)
 
@@ -85,5 +85,6 @@ Y= A⊕B
 
 **Result:**
 
-Therefore, the given experiment is successful.
+
+The truth tablecof the specified logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) was successfully implemented and verified using Verilog programming in Quartus II.
 
